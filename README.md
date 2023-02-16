@@ -1,2 +1,1 @@
-# s_Project
-idk
+# sProject
